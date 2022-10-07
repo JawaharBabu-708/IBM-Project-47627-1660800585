@@ -1,6 +1,6 @@
-            						SMART FARMER - IoT ENABLED SMART FARMING APPLICATION
+            					SMART FARMER - IoT ENABLED SMART FARMING APPLICATION
 
-									ABSTRACT 
+								ABSTRACT 
 											
 				Farming is a major input sector for economic development of any
 				country. Livelihood of majority of population of the country like India depends
