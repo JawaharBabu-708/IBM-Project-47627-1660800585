@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 17 15:07:59 2020
-
-@author: bambo
-"""
 import Fert_Dataset as fd
 import os
 
