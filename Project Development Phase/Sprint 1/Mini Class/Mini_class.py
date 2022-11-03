@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 17 15:04:31 2020
-
-@author: bambo
-"""
-
-
-"""
 # MULTIPLE LINEAR REGRESSION
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
