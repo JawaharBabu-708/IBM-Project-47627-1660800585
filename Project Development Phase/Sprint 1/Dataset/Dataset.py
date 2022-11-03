@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  5 21:53:27 2020
-
-@author: bambo
-"""
 # IMPORT ALL NECESSARY MODULES
 import pandas as pd
 import numpy as np
