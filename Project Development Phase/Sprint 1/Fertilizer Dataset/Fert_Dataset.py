@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 17 14:39:06 2020
-
-@author: bambo
-"""
-
 import pandas as pd
 
 def get_fert_dataset(loc_Fert):
