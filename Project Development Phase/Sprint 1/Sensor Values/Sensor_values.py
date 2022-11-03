@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  3 21:51:39 2020
-
-@author: bambo
-"""
-
 def get_readings():    
     import ipinfo
     import random
