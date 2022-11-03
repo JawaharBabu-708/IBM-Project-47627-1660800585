@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 17 22:07:14 2020
-
-@author: bambo
-"""
 import Dataset as ds
 import os
 
