@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 17 16:53:22 2020
-
-@author: bambo
 """
 # PREPARE STRINGS FOR STATEMENT
 #==============================================================================
